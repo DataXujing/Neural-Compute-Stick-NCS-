@@ -1,0 +1,405 @@
+一个计算棒的一个device: 28X28 GRAY AlexNet 约7ms一张
+
+[INFO] 识别结果：8
+[INFO] 真实label：8
+[INFO] 运行时间：0.073833
+[INFO] User Object: user object
+[INFO] 识别结果：8
+[INFO] 真实label：8
+[INFO] 运行时间：0.00798
+[INFO] User Object: user object
+[INFO] 识别结果：8
+[INFO] 真实label：8
+[INFO] 运行时间：0.00698
+[INFO] User Object: user object
+[INFO] 识别结果：0
+[INFO] 真实label：0
+[INFO] 运行时间：0.00698
+[INFO] User Object: user object
+[INFO] 识别结果：3
+[INFO] 真实label：3
+[INFO] 运行时间：0.005986
+[INFO] User Object: user object
+[INFO] 识别结果：3
+[INFO] 真实label：3
+[INFO] 运行时间：0.007977
+[INFO] User Object: user object
+[INFO] 识别结果：1
+[INFO] 真实label：1
+[INFO] 运行时间：0.006008
+[INFO] User Object: user object
+[INFO] 识别结果：3
+[INFO] 真实label：3
+[INFO] 运行时间：0.006981
+[INFO] User Object: user object
+[INFO] 识别结果：9
+[INFO] 真实label：9
+[INFO] 运行时间：0.005985
+[INFO] User Object: user object
+[INFO] 识别结果：6
+[INFO] 真实label：6
+[INFO] 运行时间：0.006984
+[INFO] User Object: user object
+[INFO] 识别结果：6
+[INFO] 真实label：1
+[INFO] 运行时间：0.005984
+[INFO] User Object: user object
+[INFO] 识别结果：1
+[INFO] 真实label：1
+[INFO] 运行时间：0.006989
+[INFO] User Object: user object
+[INFO] 识别结果：1
+[INFO] 真实label：1
+[INFO] 运行时间：0.006973
+[INFO] User Object: user object
+[INFO] 识别结果：7
+[INFO] 真实label：7
+[INFO] 运行时间：0.005983
+[INFO] User Object: user object
+[INFO] 识别结果：7
+[INFO] 真实label：7
+[INFO] 运行时间：0.008962
+[INFO] User Object: user object
+[INFO] 识别结果：7
+[INFO] 真实label：7
+[INFO] 运行时间：0.00698
+[INFO] User Object: user object
+[INFO] 识别结果：5
+[INFO] 真实label：5
+[INFO] 运行时间：0.006987
+[INFO] User Object: user object
+[INFO] 识别结果：6
+[INFO] 真实label：6
+[INFO] 运行时间：0.006227
+[INFO] User Object: user object
+[INFO] 识别结果：0
+[INFO] 真实label：0
+[INFO] 运行时间：0.00699
+[INFO] User Object: user object
+[INFO] 识别结果：2
+[INFO] 真实label：2
+[INFO] 运行时间：0.00714
+[INFO] User Object: user object
+[INFO] 识别结果：0
+[INFO] 真实label：0
+[INFO] 运行时间：0.005987
+[INFO] User Object: user object
+[INFO] 识别结果：0
+[INFO] 真实label：0
+[INFO] 运行时间：0.006998
+[INFO] User Object: user object
+[INFO] 识别结果：7
+[INFO] 真实label：7
+[INFO] 运行时间：0.006968
+[INFO] User Object: user object
+[INFO] 识别结果：9
+[INFO] 真实label：9
+[INFO] 运行时间：0.006985
+[INFO] User Object: user object
+[INFO] 识别结果：2
+[INFO] 真实label：2
+[INFO] 运行时间：0.006985
+[INFO] User Object: user object
+[INFO] 识别结果：4
+[INFO] 真实label：4
+[INFO] 运行时间：0.00697
+[INFO] User Object: user object
+[INFO] 识别结果：2
+[INFO] 真实label：2
+[INFO] 运行时间：0.006984
+[INFO] User Object: user object
+[INFO] 识别结果：3
+[INFO] 真实label：3
+[INFO] 运行时间：0.006603
+[INFO] User Object: user object
+[INFO] 识别结果：4
+[INFO] 真实label：4
+[INFO] 运行时间：0.006989
+[INFO] User Object: user object
+[INFO] 识别结果：3
+[INFO] 真实label：3
+[INFO] 运行时间：0.005987
+[INFO] User Object: user object
+[INFO] 识别结果：1
+[INFO] 真实label：1
+[INFO] 运行时间：0.00599
+[INFO] User Object: user object
+[INFO] 识别结果：2
+[INFO] 真实label：2
+[INFO] 运行时间：0.006991
+[INFO] User Object: user object
+[INFO] 识别结果：0
+[INFO] 真实label：0
+[INFO] 运行时间：0.005968
+[INFO] User Object: user object
+[INFO] 识别结果：7
+[INFO] 真实label：7
+[INFO] 运行时间：0.006538
+[INFO] User Object: user object
+[INFO] 识别结果：1
+[INFO] 真实label：1
+[INFO] 运行时间：0.005997
+[INFO] User Object: user object
+[INFO] 识别结果：3
+[INFO] 真实label：3
+[INFO] 运行时间：0.006005
+[INFO] User Object: user object
+[INFO] 识别结果：2
+[INFO] 真实label：2
+[INFO] 运行时间：0.007162
+[INFO] User Object: user object
+[INFO] 识别结果：9
+[INFO] 真实label：9
+[INFO] 运行时间：0.005992
+[INFO] User Object: user object
+[INFO] 识别结果：2
+[INFO] 真实label：2
+[INFO] 运行时间：0.006997
+[INFO] User Object: user object
+[INFO] 识别结果：3
+[INFO] 真实label：3
+[INFO] 运行时间：0.005979
+[INFO] User Object: user object
+[INFO] 识别结果：7
+[INFO] 真实label：7
+[INFO] 运行时间：0.007974
+[INFO] User Object: user object
+[INFO] 识别结果：5
+[INFO] 真实label：5
+[INFO] 运行时间：0.00697
+[INFO] User Object: user object
+[INFO] 识别结果：6
+[INFO] 真实label：6
+[INFO] 运行时间：0.006983
+[INFO] User Object: user object
+[INFO] 识别结果：3
+[INFO] 真实label：3
+[INFO] 运行时间：0.005984
+[INFO] User Object: user object
+[INFO] 识别结果：9
+[INFO] 真实label：9
+[INFO] 运行时间：0.005998
+[INFO] User Object: user object
+[INFO] 识别结果：1
+[INFO] 真实label：1
+[INFO] 运行时间：0.006979
+[INFO] User Object: user object
+[INFO] 识别结果：7
+[INFO] 真实label：7
+[INFO] 运行时间：0.006986
+[INFO] User Object: user object
+[INFO] 识别结果：0
+[INFO] 真实label：0
+[INFO] 运行时间：0.005977
+[INFO] User Object: user object
+[INFO] 识别结果：4
+[INFO] 真实label：4
+[INFO] 运行时间：0.006985
+[INFO] User Object: user object
+[INFO] 识别结果：4
+[INFO] 真实label：4
+[INFO] 运行时间：0.006919
+[INFO] User Object: user object
+[INFO] 识别结果：0
+[INFO] 真实label：0
+[INFO] 运行时间：0.006996
+[INFO] User Object: user object
+[INFO] 识别结果：0
+[INFO] 真实label：0
+[INFO] 运行时间：0.006
+[INFO] User Object: user object
+[INFO] 识别结果：8
+[INFO] 真实label：8
+[INFO] 运行时间：0.006515
+[INFO] User Object: user object
+[INFO] 识别结果：2
+[INFO] 真实label：2
+[INFO] 运行时间：0.008197
+[INFO] User Object: user object
+[INFO] 识别结果：9
+[INFO] 真实label：9
+[INFO] 运行时间：0.006084
+[INFO] User Object: user object
+[INFO] 识别结果：8
+[INFO] 真实label：8
+[INFO] 运行时间：0.007401
+[INFO] User Object: user object
+[INFO] 识别结果：3
+[INFO] 真实label：3
+[INFO] 运行时间：0.005986
+[INFO] User Object: user object
+[INFO] 识别结果：7
+[INFO] 真实label：7
+[INFO] 运行时间：0.006986
+[INFO] User Object: user object
+[INFO] 识别结果：8
+[INFO] 真实label：8
+[INFO] 运行时间：0.007974
+[INFO] User Object: user object
+[INFO] 识别结果：5
+[INFO] 真实label：5
+[INFO] 运行时间：0.005994
+[INFO] User Object: user object
+[INFO] 识别结果：1
+[INFO] 真实label：1
+[INFO] 运行时间：0.00697
+[INFO] User Object: user object
+[INFO] 识别结果：8
+[INFO] 真实label：5
+[INFO] 运行时间：0.006997
+[INFO] User Object: user object
+[INFO] 识别结果：9
+[INFO] 真实label：9
+[INFO] 运行时间：0.007973
+[INFO] User Object: user object
+[INFO] 识别结果：6
+[INFO] 真实label：6
+[INFO] 运行时间：0.006008
+[INFO] User Object: user object
+[INFO] 识别结果：7
+[INFO] 真实label：7
+[INFO] 运行时间：0.006948
+[INFO] User Object: user object
+[INFO] 识别结果：0
+[INFO] 真实label：0
+[INFO] 运行时间：0.007978
+[INFO] User Object: user object
+[INFO] 识别结果：8
+[INFO] 真实label：8
+[INFO] 运行时间：0.005985
+[INFO] User Object: user object
+[INFO] 识别结果：9
+[INFO] 真实label：9
+[INFO] 运行时间：0.007982
+[INFO] User Object: user object
+[INFO] 识别结果：9
+[INFO] 真实label：9
+[INFO] 运行时间：0.006166
+[INFO] User Object: user object
+[INFO] 识别结果：4
+[INFO] 真实label：4
+[INFO] 运行时间：0.006147
+[INFO] User Object: user object
+[INFO] 识别结果：7
+[INFO] 真实label：7
+[INFO] 运行时间：0.006981
+[INFO] User Object: user object
+[INFO] 识别结果：6
+[INFO] 真实label：6
+[INFO] 运行时间：0.005984
+[INFO] User Object: user object
+[INFO] 识别结果：4
+[INFO] 真实label：4
+[INFO] 运行时间：0.006998
+[INFO] User Object: user object
+[INFO] 识别结果：3
+[INFO] 真实label：3
+[INFO] 运行时间：0.006894
+[INFO] User Object: user object
+[INFO] 识别结果：7
+[INFO] 真实label：7
+[INFO] 运行时间：0.008
+[INFO] User Object: user object
+[INFO] 识别结果：4
+[INFO] 真实label：4
+[INFO] 运行时间：0.005966
+[INFO] User Object: user object
+[INFO] 识别结果：6
+[INFO] 真实label：6
+[INFO] 运行时间：0.006006
+[INFO] User Object: user object
+[INFO] 识别结果：7
+[INFO] 真实label：7
+[INFO] 运行时间：0.005987
+[INFO] User Object: user object
+[INFO] 识别结果：2
+[INFO] 真实label：2
+[INFO] 运行时间：0.005983
+[INFO] User Object: user object
+[INFO] 识别结果：1
+[INFO] 真实label：1
+[INFO] 运行时间：0.005992
+[INFO] User Object: user object
+[INFO] 识别结果：1
+[INFO] 真实label：1
+[INFO] 运行时间：0.006028
+[INFO] User Object: user object
+[INFO] 识别结果：2
+[INFO] 真实label：2
+[INFO] 运行时间：0.005982
+[INFO] User Object: user object
+[INFO] 识别结果：6
+[INFO] 真实label：6
+[INFO] 运行时间：0.005989
+[INFO] User Object: user object
+[INFO] 识别结果：9
+[INFO] 真实label：9
+[INFO] 运行时间：0.005991
+[INFO] User Object: user object
+[INFO] 识别结果：1
+[INFO] 真实label：1
+[INFO] 运行时间：0.005972
+[INFO] User Object: user object
+[INFO] 识别结果：3
+[INFO] 真实label：3
+[INFO] 运行时间：0.006997
+[INFO] User Object: user object
+[INFO] 识别结果：1
+[INFO] 真实label：1
+[INFO] 运行时间：0.006274
+[INFO] User Object: user object
+[INFO] 识别结果：7
+[INFO] 真实label：7
+[INFO] 运行时间：0.005991
+[INFO] User Object: user object
+[INFO] 识别结果：9
+[INFO] 真实label：9
+[INFO] 运行时间：0.007025
+[INFO] User Object: user object
+[INFO] 识别结果：3
+[INFO] 真实label：3
+[INFO] 运行时间：0.005989
+[INFO] User Object: user object
+[INFO] 识别结果：5
+[INFO] 真实label：5
+[INFO] 运行时间：0.007996
+[INFO] User Object: user object
+[INFO] 识别结果：2
+[INFO] 真实label：2
+[INFO] 运行时间：0.005966
+[INFO] User Object: user object
+[INFO] 识别结果：9
+[INFO] 真实label：9
+[INFO] 运行时间：0.006981
+[INFO] User Object: user object
+[INFO] 识别结果：8
+[INFO] 真实label：8
+[INFO] 运行时间：0.006326
+[INFO] User Object: user object
+[INFO] 识别结果：5
+[INFO] 真实label：5
+[INFO] 运行时间：0.006237
+[INFO] User Object: user object
+[INFO] 识别结果：6
+[INFO] 真实label：6
+[INFO] 运行时间：0.006988
+[INFO] User Object: user object
+[INFO] 识别结果：8
+[INFO] 真实label：8
+[INFO] 运行时间：0.005995
+[INFO] User Object: user object
+[INFO] 识别结果：0
+[INFO] 真实label：0
+[INFO] 运行时间：0.006968
+[INFO] User Object: user object
+[INFO] 识别结果：5
+[INFO] 真实label：5
+[INFO] 运行时间：0.006858
+[INFO] User Object: user object
+[INFO] 识别结果：3
+[INFO] 真实label：3
+[INFO] 运行时间：0.006512
+[INFO] User Object: user object
+W[INFO] 识别完毕，正常关闭图和设备！
+inUsb_ReadPipe: Q
+[Finished in 12.0s]
